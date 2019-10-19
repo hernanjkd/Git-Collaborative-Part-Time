@@ -1,0 +1,6 @@
+*{
+    border: 1px solid red;
+}
+.jumbotron{
+    background-image: url('https://cdn.pixabay.com/photo/2013/12/05/21/30/seattle-223890_960_720.jpg')
+}

@@ -1,6 +1,7 @@
 body{
     background: #BDBDBD;
 }
+<<<<<<< HEAD
 .form-table {
     background-color: white;
     padding: 15px;
@@ -16,3 +17,18 @@ body{
 .form-group2 {
     font-weight: bold;
 }
+=======
+
+.jumbotron{
+    background-image: url('https://images.unsplash.com/photo-1502905704466-2690947baeee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: right 0px bottom -250px;
+    justify-content: center;
+}
+.jumbotron h1, h2{
+    background-color: rgba(255, 255, 255, 0.884);
+    display: flex;
+    justify-content: center;
+}
+>>>>>>> 4ba4b5b7f730b0c56afb2e2566659c171ee57531
