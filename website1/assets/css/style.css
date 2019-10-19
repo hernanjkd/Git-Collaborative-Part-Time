@@ -1,3 +1,21 @@
 body{
     background: #BDBDBD;
 }
+.form-table {
+    background-color: white;
+    padding: 15px;
+
+}
+#form-background {
+    background-color: lightgray;
+    padding: 20px;
+}
+.form-group1 {
+    font-weight: bold;
+}
+.form-group2 {
+    font-weight: bold;
+}
+.emailsect {
+    padding-left: 10px
+}
