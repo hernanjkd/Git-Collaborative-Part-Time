@@ -1,11 +1,11 @@
-.jumbotron{
+.jumboImg{
     background-image: url('https://images.unsplash.com/photo-1502905704466-2690947baeee?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=749&q=80');
     background-repeat: no-repeat;
     background-size: 100%;
     background-position: right 0px bottom -250px;
     justify-content: center;
 }
-.jumbotron h1, h2{
+.jumboImg h1, h2{
     background-color: rgba(255, 255, 255, 0.884);
     display: flex;
     justify-content: center;
